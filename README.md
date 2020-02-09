@@ -18,3 +18,4 @@ the complete code works on U_NET architecture which is a subset of CNN(DL).<br>
 follow the comments in ipynb to execute the code .
 
 # sample images/output :
+![GitHub Logo](/images/index.png)
