@@ -18,4 +18,8 @@ the complete code works on U_NET architecture which is a subset of CNN(DL).<br>
 follow the comments in ipynb to execute the code .
 
 # sample images/output :
-![GitHub Logo](/images/index.png)
+sample result on training image: 
+![sample result on training image](/images/index-1.png)
+<br>
+sample result on validation image:
+![sample result on validation image](/images/index-2.png)
